@@ -1,4 +1,4 @@
-console.log(/*☑️ Start by declaring an "Array literal" -- 
+console.log("/*☑️ Start by declaring an "Array literal" -- 
        that is, writing out an array from scratch! --
        and call the variable "nums"
     ☑️ Fill it with the numbers 1, 2, and 3
@@ -54,9 +54,9 @@ product.sale = true;
 product.tags = ['men', 'luxury'];
 product.soldOut = true;
 
-console.log(product););
+console.log(product);");
 
-console.log('Answers below');
+console.log("Answers below");
 
 
 /*☑️ Start by declaring an "Array literal" -- 

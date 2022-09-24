@@ -56,6 +56,8 @@ product.soldOut = true;
 
 console.log(product););
 
+console.log('Answers below');
+
 
 /*☑️ Start by declaring an "Array literal" -- 
        that is, writing out an array from scratch! --
